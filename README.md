@@ -51,3 +51,5 @@ The Power BI Dashboard includes:
 2. **Power BI Integration**:
    * Connect Power BI Desktop to your SQL Server instance (`DESKTOP-S16ISFI`).
    * Select the `sales` table / views and apply visual configurations.
+  
+  ![Power BI Sales Dashboard](Screenshot (1289).png)
